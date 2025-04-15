@@ -1,0 +1,5 @@
+[project]
+name = "cadrille"
+version = "0.1.0"
+description = "cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning"
+requires-python = ">=3.10"
